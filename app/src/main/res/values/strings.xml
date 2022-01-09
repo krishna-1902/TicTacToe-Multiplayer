@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Ultimate-XO</string>
+    <string name="welcome">* Welcome To Tic-Tac-Toe *</string>
+    <string name="status">O\'s Turn - Tap To Play</string>
+    <string name="tictactoe">>>> Tic-Tac-Toe >>></string>
+    <string name="play">Play</string>
+    <string name="player">Player : </string>
+    <string name="playerName">You</string>
+    <string name="computer">Opponent</string>
+    <string name="title">Create / Join Room With Room-Code</string>
+</resources>

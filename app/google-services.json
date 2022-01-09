@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "559370941457",
+    "firebase_url": "https://demoproject-c807b-default-rtdb.firebaseio.com/",
+    "project_id": "demoproject-c807b",
+    "storage_bucket": "demoproject-c807b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:559370941457:android:23751445674dfcff94edb0",
+        "android_client_info": {
+          "package_name": "com.example.ultimatetictactoe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "559370941457-q10s46cq4c838it5u889ggburaqj11g8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqDYPTC5KdcEKmseuP7cPMOz0sWckJxj0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "559370941457-q10s46cq4c838it5u889ggburaqj11g8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
